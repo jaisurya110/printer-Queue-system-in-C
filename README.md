@@ -1,6 +1,22 @@
-# printer-Queue-system-in-C
+# Printer Queue System in C
 
-Printer Queue System in C
-This project demonstrates how to implement a simple printer queue using linked lists in the C programming language.
-It allows users to add print jobs, delete completed jobs, and display the current print queue.
-The program helps beginners understand queues, dynamic memory allocation, and data structures in C
+This is a mini-project that simulates a printer queue using the **queue data structure** in C, implemented using linked lists.
+
+## Features
+- Add print jobs
+- Print next job in FIFO order
+- View current pending jobs
+- Handles invalid input safely
+
+## Project Files
+- `printer_queue.c` – Source code
+- `Printer_Queue_Report.pdf` – Project report
+- `/output_screenshots/` – Program output screenshots
+
+## How to Run
+1. Download the `printer_queue.c` file
+2. Compile using any C compiler (`gcc printer_queue.c`)
+3. Run the compiled `.exe` / binary
+
+## Author
+- [KRISHNA AHUJA]
