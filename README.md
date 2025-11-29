@@ -19,4 +19,4 @@ This is a mini-project that simulates a printer queue using the **queue data str
 3. Run the compiled `.exe` / binary
 
 ## Author
-- [KRISHNA AHUJA]
+- [Jai surya xess]
